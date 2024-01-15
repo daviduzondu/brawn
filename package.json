@@ -4,6 +4,9 @@
   "description": "A simple CLI tool to scrape article content from popular news sources",
   "type": "module",
   "main": "index.js",
+  "bin": {
+    "jolt": "./cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
