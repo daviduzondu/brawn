@@ -1,6 +1,6 @@
 {
   "name": "brawn",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple CLI tool to scrape article content from popular news sources",
   "type": "module",
   "main": "index.js",
