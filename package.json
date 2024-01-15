@@ -1,7 +1,7 @@
 {
-  "name": "yak",
+  "name": "jolt",
   "version": "1.0.0",
-  "description": "A simple tool to scrape article content from popular news sources",
+  "description": "A simple CLI tool to scrape article content from popular news sources",
   "type": "module",
   "main": "index.js",
   "scripts": {
