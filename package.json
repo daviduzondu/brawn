@@ -1,0 +1,17 @@
+{
+  "name": "yak",
+  "version": "1.0.0",
+  "description": "A simple tool to scrape article content from popular news sources",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Uzondu",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "clipboardy": "^4.0.0",
+    "commander": "^11.1.0"
+  }
+}
