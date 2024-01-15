@@ -1,4 +1,4 @@
-import fs, { fsync } from "fs";
+import fetch from "node-fetch";
 import cheerio from "cheerio";
 
 async function getHTML(link) {

@@ -1,11 +1,11 @@
 {
-  "name": "jolt",
-  "version": "1.0.0",
+  "name": "brawn",
+  "version": "1.0.1",
   "description": "A simple CLI tool to scrape article content from popular news sources",
   "type": "module",
   "main": "index.js",
   "bin": {
-    "jolt": "./cli.js"
+    "brawn": "./cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +15,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "clipboardy": "^4.0.0",
-    "commander": "^11.1.0"
+    "commander": "^11.1.0",
+    "node-fetch": "^3.3.2"
   }
 }
